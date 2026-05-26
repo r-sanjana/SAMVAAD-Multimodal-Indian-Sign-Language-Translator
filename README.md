@@ -103,8 +103,8 @@ The system supports real-time gesture recognition, speech-to-sign conversion, si
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/r-sanjana/samvaad-isl-translator.git
-cd samvaad-isl-translator
+git clone https://github.com/r-sanjana/SAMVAAD-Multimodal-Indian-Sign-Language-Translator
+cd SAMVAAD-Multimodal-Indian-Sign-Language-Translator
 ```
 
 ---
@@ -199,7 +199,6 @@ Samvaad-main/
 ├── requirements.txt               # Project dependencies
 ├── config.toml                    # Streamlit configuration
 ├── README.md                      # Project documentation
-└── mini projectf final report samvaad.pdf
 ```
 ---
 
