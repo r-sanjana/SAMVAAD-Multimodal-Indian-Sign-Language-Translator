@@ -226,11 +226,11 @@ This project was developed as part of an AI/ML learning and research initiative 
 
 
 ## Authors
+**Sanjana R**
+GitHub: https://github.com/r-sanjana
+
 **Srishti Sindgi** 
 GitHub: https://github.com/sindgisrishtis
 
 **Ujwala Shet**
 GitHub: https://github.com/ujwalashet
-
-**Sanjana R**
-GitHub: https://github.com/r-sanjana
