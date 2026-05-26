@@ -1,6 +1,6 @@
 # 🌿 Samvaad – Multimodal Indian Sign Language Translator
 
-Samvaad is an AI-powered multimodal Indian Sign Language (ISL) translation platform designed to bridge communication gaps between hearing and speech-impaired individuals and the wider community.
+Samvaad is an AI-multimodal Indian Sign Language (ISL) translation platform designed to bridge communication gaps between hearing and speech-impaired individuals and the wider community.
 
 The system supports real-time gesture recognition, speech-to-sign conversion, sign-to-speech translation, analytics, and interactive learning modules using deep learning and computer vision.
 
